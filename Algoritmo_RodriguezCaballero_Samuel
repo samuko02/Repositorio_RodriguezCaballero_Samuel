@@ -2,6 +2,7 @@
 
 Algoritmo Promedio
 	
+	Escribir "Prueba 2"
 	Escribir "Ingrese la cantidad de datos:"
 	
 	Leer n
